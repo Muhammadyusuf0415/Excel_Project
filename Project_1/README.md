@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-<img src="../images_and_gifs/1_Salary_Dashboard_Final_Dashboard.gif" width="400" alt="Dashboard Preview">
+<img src="../images_and_gifs/1_Salary_Dashboard_Final_Dashboard.gif" width="600" alt="Dashboard Preview">
 
 ## 📖 Project Overview
 
