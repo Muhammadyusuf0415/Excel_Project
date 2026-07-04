@@ -103,9 +103,9 @@ IF(
 #### 🔍 Filtered List
 
 - 🔒 **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
-    - 🎯 User input is restricted to predefined, validated schedule types
-    - 🚫 Incorrect or inconsistent entries are prevented
-    - 👥 Overall usability of the dashboard is enhanced
+    - 🎯 User input is restricted to predefined, validated schedule types.
+    - 🚫 Incorrect or inconsistent entries are prevented.
+    - 👥 Overall usability of the dashboard is enhanced.
 
 ![1_Salary_Dashboard_Type.png](/Excel_Project/images_and_gifs/1_Salary_Dashboard_Data_Validation%20(1).gif)
 
