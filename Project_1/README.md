@@ -2,7 +2,7 @@
     
 
 
-![final dashboard](../images_and_gifs/1_Salary_Dashboard_Final_Dashboard.gif)  
+<img src="../images_and_gifs/1_Salary_Dashboard_Final_Dashboard.gif" alt="final dashboard" width="700">  
 
 
 ## Introduction
@@ -36,7 +36,7 @@ The dataset used for this project contains real-world data science job informati
 ### 📉 Charts
 
 #### 📊 Data Science Job Salaries - Bar Chart
-![bar chart](../images_and_gifs/1_Salary_Dashboard_Chart1.png)
+<img src="../images_and_gifs/1_Salary_Dashboard_Chart1.png" alt="bar chart" width="700">
 
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
@@ -46,7 +46,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![map chart](../images_and_gifs/1_Salary_Dashboard_Country_Map.gif)
+<img src="../images_and_gifs/1_Salary_Dashboard_Country_Map.gif" alt="map chart" width="700">
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -77,11 +77,12 @@ IF(
 
 🍽️ Background Table
 
-![btable](../images_and_gifs/1_Salary_Dashboard_Screenshot1.png)
+<img src="../images_and_gifs/1_Salary_Dashboard_Screenshot1.png" alt="btable" width="700">
 
 📉 Dashboard Implementation:
 
-![implementation](../images_and_gifs/1_Salary_Dashboard_Job_Title.png)
+<img src="../images_and_gifs/1_Salary_Dashboard_Job_Title.png" alt="implementation" width="700">
+
 #### ⏰ Count of Job Schedule Type
 
 ```
@@ -93,11 +94,11 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](../images_and_gifs/1_Salary_Dashboard_Screenshot2.png)
+<img src="../images_and_gifs/1_Salary_Dashboard_Screenshot2.png" alt="screenshot" width="700">
 
 📉 Dashboard Implementation:
 
-![implementation](../images_and_gifs/1_Salary_Dashboard_Type.png)
+<img src="../images_and_gifs/1_Salary_Dashboard_Type.png" alt="implementation" width="700">
 
 ### ❎ Data Validation
 
@@ -108,7 +109,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented.
     - 👥 Overall usability of the dashboard is enhanced.
 
-![1_Salary_Dashboard_Type.png](../images_and_gifs/1_Salary_Dashboard_Data_Validation%20(1).gif)
+<img src="../images_and_gifs/1_Salary_Dashboard_Data_Validation%20(1).gif" alt="data validation" width="700">
 
 ## Conclusion
 
