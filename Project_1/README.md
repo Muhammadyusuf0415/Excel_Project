@@ -4,7 +4,7 @@
 
 ## Introduction
 
-I analyzed **2,400+ data science job postings from 2023** to uncover salary trends across roles, regions, and employment types. This interactive dashboard lets you filter by job title and location to benchmark your market rate—discovering insights like the **45% salary gap between junior analysts and senior engineers**.
+I analyzed **2,400+ data science job postings from 2023** to uncover salary trends across roles, regions, and employment types. This interactive dashboard lets you filter by job title and location to explore real-time insights into the data science job market—helping job seekers and HR professionals benchmark compensation and identify high-demand roles.
 
 ### 📊 Dashboard File
 
@@ -24,6 +24,10 @@ Real-world data science job information from 2023, containing:
 - **Annual salaries** (ranging across experience levels)
 - **Locations** (global coverage across multiple countries)
 - **Employment types** (Full-time, Contract, Part-time)
+
+**Data Source:** This dataset originates from publicly available job listings aggregated from 2023, covering roles across North America, Europe, and other key markets. The dataset includes ~2,400 unique job postings with cleaned salary information.
+
+**Requirements:** Microsoft Excel 365 (or compatible spreadsheet software with support for dynamic array formulas like FILTER and MEDIAN)
 
 ---
 
@@ -67,7 +71,7 @@ IF(
 
 **What it does:** Returns the median salary filtered by job title, country, employment type, and excludes zero/blank values.
 
-**Why it works:** The nested `IF()` statement creates a multi-criteria filter, and `MEDIAN()` handles the array operation, giving us accurate salary benchmarks for any combination of filters.
+**Why it works:** The nested `IF()` statement creates a multi-criteria filter, and `MEDIAN()` handles the array operation, giving us accurate salary benchmarks for any combination of filters. This approach is more flexible than pivot tables because it recalculates dynamically as dropdown selections change.
 
 **Background Table Example:**
 
@@ -85,7 +89,7 @@ IF(
 
 **What it does:** Generates a unique list of job schedule types by filtering out entries with "and" or commas, and removes zero values.
 
-**Why it works:** The `FILTER()` function cleans up the raw data, ensuring only valid, unique options appear in the dropdown.
+**Why it works:** The `FILTER()` function cleans up the raw data, ensuring only valid, unique options appear in the dropdown. This prevents malformed entries from appearing in the filter list.
 
 **Background Table Example:**
 
@@ -117,15 +121,15 @@ Simply select your criteria, and the charts and salary table update instantly to
 
 ## Key Learnings
 
-- **Array formulas are powerful** — Using `MEDIAN()` + `IF()` proved more flexible than pivot tables for dynamic salary comparisons
-- **Geographic data tells a story** — Map charts make salary disparities immediately obvious without requiring manual region parsing
-- **User-friendly dashboards need constraints** — Data validation transforms a static analysis into an interactive tool
+- **Array formulas unlock dynamic dashboards** — Using `MEDIAN()` + `IF()` proved essential for real-time filtering without manual recalculation. Traditional pivot tables are static; this approach ensures every filter change updates all charts instantly.
+- **Geographic visualization communicates complex data** — Map charts make global salary disparities immediately obvious at a glance, eliminating the need for manual region-by-region parsing.
+- **User-friendly dashboards need constraints** — Data validation transforms a static analysis into an interactive tool, reducing user error and improving the experience.
 
 ---
 
 ## Conclusion
 
-This project demonstrates how Excel can transform raw job market data into actionable insights. By combining formulas, charts, and validation, I created a tool that lets job seekers quickly understand their market value. Whether you're negotiating salary or planning your career path, this dashboard provides the data-driven evidence you need.
+This project demonstrates how Excel can transform raw job market data into actionable insights. By combining formulas, charts, and validation, I created a tool that lets job seekers quickly understand which roles pay best, where opportunities are strongest, and how employment type affects compensation. Whether you're negotiating an offer or exploring career transitions, this dashboard provides the data-driven clarity you need.
 
 **Next steps:** Download the file, experiment with different filters, and discover your ideal salary range based on role, location, and employment type.
 
@@ -134,8 +138,27 @@ This project demonstrates how Excel can transform raw job market data into actio
 ## 📥 How to Get Started
 
 1. Download **[Job_Market_Analysis.xlsx](Job_Market_Analysis.xlsx)**
-2. Open in Microsoft Excel or compatible spreadsheet software
+2. Open in Microsoft Excel 365 or compatible spreadsheet software
 3. Use the dropdown filters to explore salary trends
 4. Refer to the charts for visual insights
 
-Have feedback or suggestions? Feel free to reach out!
+---
+
+## 💬 Feedback & Questions
+
+Have ideas for improvement or want to explore similar analysis? I'd love to hear from you:
+
+- **LinkedIn:** [Connect here](https://linkedin.com/in/yourprofile) *(update with your profile)*
+- **Email:** [your-email@domain.com](mailto:your-email@domain.com) *(update with your contact)*
+- **Issues/Discussions:** Found a bug or have a suggestion? Open an issue on this repository.
+
+---
+
+## 🚀 Future Enhancements
+
+Potential improvements for future versions:
+- Add salary range percentiles (25th, 75th) alongside medians
+- Include experience level breakdowns (entry, mid, senior)
+- Trend analysis showing salary growth year-over-year
+- Export filtered results to CSV
+
