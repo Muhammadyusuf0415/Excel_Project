@@ -2,7 +2,7 @@
     
 
 
-![final dashboard](/Excel_Project/images_and_gifs/\1_Salary_Dashboard_Final_Dashboard.gif)  
+![final dashboard](/Excel_Project/images_and_gifs/1_Salary_Dashboard_Final_Dashboard.gif)  
 
 
 ## Introduction
