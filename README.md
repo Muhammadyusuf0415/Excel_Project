@@ -5,7 +5,7 @@ Welcome to my Excel portfolio! This repository contains projects that demonstrat
 ## Projects
 
 - 📊 Salary Dashboard
-- 📈 Sales Dashboard (Coming Soon)
+- 📈 Sales Dashboard 
 
 ## Skills
 
