@@ -26,7 +26,7 @@ The following Excel skills were utilized for analysis:
 
 The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel.
 
-- **👨‍💼 Job titles**
+- **👨��💼 Job titles**
 - **💰 Salaries**
 - **📍 Locations**
 - **🛠️ Skills**
@@ -77,11 +77,11 @@ IF(
 
 🍽️ Background Table
 
-<img src="../images_and_gifs/1_Salary_Dashboard_Screenshot1.png" alt="btable" width="500">
+<img src="../images_and_gifs/1_Salary_Dashboard_Screenshot1.png" alt="btable" width="350">
 
 📉 Dashboard Implementation:
 
-<img src="../images_and_gifs/1_Salary_Dashboard_Job_Title.png" alt="implementation" width="500">
+<img src="../images_and_gifs/1_Salary_Dashboard_Job_Title.png" alt="implementation" width="350">
 
 #### ⏰ Count of Job Schedule Type
 
@@ -94,11 +94,11 @@ IF(
 
 🍽️ Background Table
 
-<img src="../images_and_gifs/1_Salary_Dashboard_Screenshot2.png" alt="screenshot" width="500">
+<img src="../images_and_gifs/1_Salary_Dashboard_Screenshot2.png" alt="screenshot" width="350">
 
 📉 Dashboard Implementation:
 
-<img src="../images_and_gifs/1_Salary_Dashboard_Type.png" alt="implementation" width="500">
+<img src="../images_and_gifs/1_Salary_Dashboard_Type.png" alt="implementation" width="350">
 
 ### ❎ Data Validation
 
@@ -109,7 +109,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented.
     - 👥 Overall usability of the dashboard is enhanced.
 
-<img src="../images_and_gifs/1_Salary_Dashboard_Data_Validation%20(1).gif" alt="data validation" width="500">
+<img src="../images_and_gifs/1_Salary_Dashboard_Data_Validation%20(1).gif" alt="data validation" width="350">
 
 ## Conclusion
 
