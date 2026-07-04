@@ -1,4 +1,17 @@
-# Excel_Project
-This project demonstrate my Excel skills
+# Excel Data Analysis Portfolio
 
-I edited this on github.com
+Welcome to my Excel portfolio! This repository contains projects that demonstrate my skills in data analysis, dashboard development, and data visualization using Microsoft Excel.
+
+## Projects
+
+- 📊 Salary Dashboard
+- 📈 Sales Dashboard (Coming Soon)
+
+## Skills
+
+- Advanced Excel
+- Dynamic Array Formulas
+- PivotTables
+- Charts & Dashboards
+- Data Validation
+- Power Query
