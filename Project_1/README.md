@@ -196,25 +196,8 @@ This project demonstrates how Microsoft Excel can transform raw job market data 
 
 Although the dashboard was built as a guided project while completing **Luke Barousse's Excel for Data Analytics course**, recreating it provided valuable hands-on experience with dashboard design, dynamic formulas, and data visualization techniques.
 
----
-
-# 🚀 Future Improvements
-
-Potential enhancements include:
-
-- Add experience-level comparisons
-- Display salary percentiles
-- Compare multiple countries simultaneously
-- Build a Power BI version of the dashboard
-- Connect to live job market datasets
 
 ---
 
-# 💬 Contact
-
-If you have suggestions or feedback, feel free to reach out.
-
-- 💼 LinkedIn: *(Add your LinkedIn profile)*
-- 📧 Email: *(Add your email address)*
 
 ⭐ If you found this project useful, consider giving the repository a star!
