@@ -6,7 +6,7 @@
 
 This project was completed as part of **Luke Barousse's Excel for Data Analytics course**, where I recreated an interactive salary dashboard using Microsoft Excel. While following the guided project, I gained hands-on experience building data visualizations and interactive reporting tools.
 
-Using **2,400+ real-world data science job postings from 2023**, the dashboard enables users to explore salary trends across job titles, countries, and employment types. It provides an interactive way to benchmark salaries and make informed career decisions.
+Using **30,000+ real-world data science job postings from 2023**, the dashboard enables users to explore salary trends across job titles, countries, and employment types. It provides an interactive way to benchmark salaries and make informed career decisions.
 
 ---
 
