@@ -2,14 +2,14 @@
     
 
 
-![final dashboard](/Excel_Project/images_and_gifs/1_Salary_Dashboard_Final_Dashboard.gif)  
+![final dashboard](../images_and_gifs/1_Salary_Dashboard_Final_Dashboard.gif)  
 
 
 ## Introduction
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
 
-The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills.
 
 ### Dashboard File
 My final dashboard is in [Job_Market_Analysis.xlsx](Job_Market_Analysis.xlsx)
@@ -18,13 +18,13 @@ My final dashboard is in [Job_Market_Analysis.xlsx](Job_Market_Analysis.xlsx)
 
 The following Excel skills were utilized for analysis:
 
-- **📉 Charts**
-- **🧮 Formulas and Functions**
-- **❎ Data Validation**
+- **📉 Charts**
+- **🧮 Formulas and Functions**
+- **❎ Data Validation**
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
+The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel.
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
@@ -33,10 +33,10 @@ The dataset used for this project contains real-world data science job informati
 
 ## Dashboard Build
 
-### 📉 Charts
+### 📉 Charts
 
 #### 📊 Data Science Job Salaries - Bar Chart
-![bar chart](images_and_gifs/1_Salary_Dashboard_Chart1.png)
+![bar chart](../images_and_gifs/1_Salary_Dashboard_Chart1.png)
 
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
@@ -44,9 +44,9 @@ The dataset used for this project contains real-world data science job informati
 - 📉 **Data Organization:** Sorted job titles by descending salary for improved readability.
 - 💡 **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
-#### 🗺️ Country Median Salaries - Map Chart
+#### 🗺️ Country Median Salaries - Map Chart
 
-![map chart](/Excel_Project/images_and_gifs/1_Salary_Dashboard_Country_Map.gif)
+![map chart](../images_and_gifs/1_Salary_Dashboard_Country_Map.gif)
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -54,7 +54,7 @@ The dataset used for this project contains real-world data science job informati
 - 👁️ **Visual Enhancement:** Improved readability and immediate understanding of geographic salary trends.
 - 💡 **Insights Gained:** Enables quick grasp of global salary disparities and highlights high/low salary regions.
 
-### 🧮 Formulas and Functions
+### 🧮 Formulas and Functions
 
 #### 💰 Median Salary by Job Titles
 
@@ -75,13 +75,13 @@ IF(
 - 🎯 **Tailored Insights:** Provides specific salary information for job titles, regions, and schedule types.
 - **🔢 Formula Purpose:** This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
-🍽️ Background Table
+🍽️ Background Table
 
-![btable](/Excel_Project/images_and_gifs/1_Salary_Dashboard_Screenshot1.png)
+![btable](../images_and_gifs/1_Salary_Dashboard_Screenshot1.png)
 
-📉 Dashboard Implementation:
+📉 Dashboard Implementation:
 
-![implementation](/Excel_Project/images_and_gifs/1_Salary_Dashboard_Job_Title.png)
+![implementation](../images_and_gifs/1_Salary_Dashboard_Job_Title.png)
 #### ⏰ Count of Job Schedule Type
 
 ```
@@ -91,15 +91,15 @@ IF(
 - 🔍 **Unique List Generation:** This Excel formula below employs the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
 - **🔢 Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
 
-🍽️ Background Table
+🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/Excel_Project/images_and_gifs/1_Salary_Dashboard_Screenshot2.png)
+![1_Salary_Dashboard_Type.png](../images_and_gifs/1_Salary_Dashboard_Screenshot2.png)
 
-📉 Dashboard Implementation:
+📉 Dashboard Implementation:
 
-![implementation](/Excel_Project/images_and_gifs/1_Salary_Dashboard_Type.png)
+![implementation](../images_and_gifs/1_Salary_Dashboard_Type.png)
 
-### ❎ Data Validation
+### ❎ Data Validation
 
 #### 🔍 Filtered List
 
@@ -108,8 +108,8 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented.
     - 👥 Overall usability of the dashboard is enhanced.
 
-![1_Salary_Dashboard_Type.png](/Excel_Project/images_and_gifs/1_Salary_Dashboard_Data_Validation%20(1).gif)
+![1_Salary_Dashboard_Type.png](../images_and_gifs/1_Salary_Dashboard_Data_Validation%20(1).gif)
 
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about compensation in the data job market.
