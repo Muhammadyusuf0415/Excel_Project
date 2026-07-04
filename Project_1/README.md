@@ -1,12 +1,12 @@
 # Excel Salary Dashboard
 
-![Dashboard Preview](../images_and_gifs/1_Salary_Dashboard_Final_Dashboard.gif)
+<img src="../images_and_gifs/1_Salary_Dashboard_Final_Dashboard.gif" width="400" alt="Dashboard Preview">
 
 ## 📖 Project Overview
 
-This project was completed as part of **Luke Barousse's Excel for Data Analytics course**, where I recreated an interactive salary dashboard using Microsoft Excel. While following the guided project, I built the dashboard myself and wrote this documentation to demonstrate my understanding of Excel-based data analysis and dashboard development.
+This project was completed as part of **Luke Barousse's Excel for Data Analytics course**, where I recreated an interactive salary dashboard using Microsoft Excel. While following the guided project, I gained hands-on experience building data visualizations and interactive reporting tools.
 
-Using **2,400+ real-world data science job postings from 2023**, the dashboard enables users to explore salary trends across job titles, countries, and employment types. It provides an interactive way to benchmark compensation and better understand the global data science job market.
+Using **2,400+ real-world data science job postings from 2023**, the dashboard enables users to explore salary trends across job titles, countries, and employment types. It provides an interactive way to benchmark salaries and make informed career decisions.
 
 ---
 
@@ -57,7 +57,7 @@ The dataset includes:
 
 ## 📉 Data Science Job Salaries
 
-![Bar Chart](../images_and_gifs/1_Salary_Dashboard_Chart1.png)
+<img src="../images_and_gifs/1_Salary_Dashboard_Chart1.png" width="350" alt="Bar Chart">
 
 ### Purpose
 
@@ -77,7 +77,7 @@ Senior-level positions and engineering roles command considerably higher median 
 
 ## 🗺️ Country Median Salaries
 
-![Map Chart](../images_and_gifs/1_Salary_Dashboard_Country_Map.gif)
+<img src="../images_and_gifs/1_Salary_Dashboard_Country_Map.gif" width="350" alt="Map Chart">
 
 ### Purpose
 
@@ -126,11 +126,11 @@ Using an array formula allows the dashboard to update dynamically whenever the u
 
 #### Background Table
 
-![Background Table](../images_and_gifs/1_Salary_Dashboard_Screenshot1.png)
+<img src="../images_and_gifs/1_Salary_Dashboard_Screenshot1.png" width="300" alt="Background Table">
 
 #### Dashboard Result
 
-![Dashboard Result](../images_and_gifs/1_Salary_Dashboard_Job_Title.png)
+<img src="../images_and_gifs/1_Salary_Dashboard_Job_Title.png" width="300" alt="Dashboard Result">
 
 ---
 
@@ -150,11 +150,11 @@ The generated list serves as the source for the dashboard's dropdown filter, ens
 
 #### Background Table
 
-![Background Table](../images_and_gifs/1_Salary_Dashboard_Screenshot2.png)
+<img src="../images_and_gifs/1_Salary_Dashboard_Screenshot2.png" width="300" alt="Background Table">
 
 #### Dashboard Result
 
-![Dashboard Result](../images_and_gifs/1_Salary_Dashboard_Type.png)
+<img src="../images_and_gifs/1_Salary_Dashboard_Type.png" width="300" alt="Dashboard Result">
 
 ---
 
@@ -174,7 +174,7 @@ The dashboard uses Excel Data Validation to create dropdown menus for:
 - Improves dashboard usability
 - Creates a more interactive experience
 
-![Data Validation](../images_and_gifs/1_Salary_Dashboard_Data_Validation%20(1).gif)
+<img src="../images_and_gifs/1_Salary_Dashboard_Data_Validation%20(1).gif" width="350" alt="Data Validation">
 
 ---
 
@@ -194,7 +194,7 @@ Through this project I gained practical experience with:
 
 This project demonstrates how Microsoft Excel can transform raw job market data into an interactive dashboard that supports salary benchmarking and career exploration.
 
-Although the dashboard was built as a guided project while completing **Luke Barousse's Excel for Data Analytics course**, recreating it provided valuable hands-on experience with dashboard design, dynamic formulas, data validation, and data visualization. It also strengthened my ability to communicate analytical findings through clear documentation and presentation.
+Although the dashboard was built as a guided project while completing **Luke Barousse's Excel for Data Analytics course**, recreating it provided valuable hands-on experience with dashboard design, dynamic formulas, and data visualization techniques.
 
 ---
 
