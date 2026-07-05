@@ -41,7 +41,7 @@ The completed dashboard is available here:
 
 ## 📊 Dataset
 
-The dashboard uses a dataset containing **2,400+ real-world data science job postings from 2023**, provided as part of the Excel course.
+The dashboard uses a dataset containing **30,000+ real-world data science job postings from 2023**, provided as part of the Excel course.
 
 The dataset includes:
 
