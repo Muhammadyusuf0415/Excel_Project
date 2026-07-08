@@ -5,7 +5,7 @@ Welcome to my Excel portfolio! This repository contains projects that demonstrat
 ## Projects
 
 - 📊 Salary Dashboard
-![capture1](./images_and_gifs/Capturelast1.PNG)
+<!-- ![capture1](./images_and_gifs/Capturelast1.PNG) -->
 - 📈 Job Market Analysis Dashboard 
 ![capture1](./images2/Capture3.PNG)
 
